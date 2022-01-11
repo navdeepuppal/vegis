@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363137250803",
+    "firebase_url": "https://kisaan-ac069-default-rtdb.firebaseio.com",
+    "project_id": "kisaan-ac069",
+    "storage_bucket": "kisaan-ac069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363137250803:android:c22c468831be7eec2a0e86",
+        "android_client_info": {
+          "package_name": "com.example.kisaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363137250803-45nods5gju6q82aehqkuqg4vdg4rg2uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisaan",
+            "certificate_hash": "547cd682f5e4f34d67c67e5f7dc9ab4d754082a5"
+          }
+        },
+        {
+          "client_id": "363137250803-n3u2v3g40ef0ak4r2l1urmkvt0pbjedh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDta49plt5anJmbtHQi7KDqXHodY-hwRdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363137250803-n3u2v3g40ef0ak4r2l1urmkvt0pbjedh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
